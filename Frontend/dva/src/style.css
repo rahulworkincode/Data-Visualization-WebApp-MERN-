@@ -1,0 +1,48 @@
+.filter-bar {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    background-color: #f4f4f4;
+    border-bottom: 3px solid #ccc;
+  }
+  
+  .filter-bar label {
+    margin-right: 10px;
+  }
+
+  .filter-bar2 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 1px;
+    background-color: #f4f4f4;
+    border-bottom: 3px solid #ccc;
+    border-right: 3px solid #ccc;
+    border-left: 3px solid #ccc;
+    max-width: 400px;
+    margin: 0 auto;
+  }
+  
+  .filter-bar2 label {
+    margin-right: 10px;
+  }
+  
+  .apply-button {
+    background-color: #4caf50;
+    color: white;
+    border: none;
+    border-radius: 10px;
+    padding: 5px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  .apply-button-container {
+    text-align: center;
+    margin-top: 10px;
+  }
+  
